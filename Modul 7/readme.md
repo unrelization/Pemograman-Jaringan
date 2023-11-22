@@ -57,6 +57,7 @@ python2 7_5_search_amazonaws_with_SOAP.py
 Dapatkan Properti Berikut terlebih dahulu
 ![image](https://github.com/unrelization/Pemograman-Jaringan/assets/78525180/30b1344a-98a1-44aa-9372-3a996c507d48)
 Dan kemudian jalankan dengan perintah berikut
+nilai properti bisa di dapatkan pada link berikut [Klik sini](https://portal.aws.amazon.com/billing/signup?nc2=h_ct&src=header_signup&redirect_url=https%3A%2F%2Faws.amazon.com%2Fregistration-confirmation#/start/email)
 ```bash
 python2 7_6_search_amazon_for_books.py
 ```
