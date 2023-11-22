@@ -1,1 +1,87 @@
 
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pemrograman-Jaringan</title>
+    <style>
+        body {
+            background-color: #111;
+            color: #fff;
+            font-family: Arial, sans-serif;
+        }
+
+        header {
+            background-color: #333;
+            padding: 1em;
+            text-align: center;
+        }
+
+        h1 {
+            color: #61dafb;
+        }
+
+        h2 {
+            color: #61dafb;
+        }
+
+        p {
+            margin-bottom: 1.5em;
+        }
+
+        a {
+            color: #61dafb;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .credit {
+            margin-top: 2em;
+            border-top: 1px solid #444;
+            padding-top: 1em;
+        }
+
+        .dark-mode {
+            background-color: #333;
+            color: #fff;
+            padding: 1em;
+            border-radius: 10px;
+            margin-top: 1em;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Pemrograman-Jaringan</h1>
+    </header>
+
+    <section>
+        <h2>Deskripsi</h2>
+        <p>Ini adalah repositori untuk menyimpan program-program yang dipelajari dalam kelas Pemrograman Jaringan 2 TRJT A (2023) di Politeknik Caltex Riau. Program-program ini ditulis menggunakan bahasa pemrograman Python.</p>
+    </section>
+
+    <section class="credit">
+        <h2>Credit (Uploader)</h2>
+        <p><a href="https://github.com/unreliablecode">unreliablecode</a> ❤️ <a href="https://github.com/diahnurhasna">diahnurhasna</a></p>
+    </section>
+
+    <section class="dark-mode">
+        <h2>Dark Mode</h2>
+        <p>Anda dapat mengaktifkan Dark Mode untuk pengalaman pengguna yang lebih nyaman.</p>
+        <button onclick="toggleDarkMode()">Aktifkan Dark Mode</button>
+    </section>
+
+    <script>
+        function toggleDarkMode() {
+            const body = document.body;
+            body.classList.toggle('dark-mode');
+        }
+    </script>
+</body>
+
+</html>
