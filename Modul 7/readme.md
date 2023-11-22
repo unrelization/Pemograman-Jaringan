@@ -1,3 +1,34 @@
+# Sebelum memulai install Python2 terlebih dahulu dan pip2
+
+# Cara Install Python2
+```bash
+sudo apt-get install python2.7
+```
+# Cara Install Pip2
+```bash
+sudo apt-get install python-pip
+```
+# Cara install supervisor
+```bash
+pip2 install supervisor
+```
+# Cara install SOAPpy
+```bash
+pip2 install SOAPpy
+```
+# Cara install bottlenose
+```bash
+pip2 install bottlenose
+atau
+pip3 install bottlenose
+```
+#cara install flask
+```
+pip install flask
+atau
+pip2 install flask
+```
+# Berikut Untuk Menjalankan Program
 # Cara Run 7.1
 ```bash
 python2 7_1_query_xmlrpc_server.py
@@ -28,12 +59,4 @@ Dapatkan Properti Berikut terlebih dahulu
 Dan kemudian jalankan dengan perintah berikut
 ```bash
 python2 7_6_search_amazon_for_books.py
-```
-# Cara Install Python2
-```bash
-sudo apt-get install python2.7
-```
-# Cara Install Pip2
-```bash
-sudo apt-get install python-pip
 ```
