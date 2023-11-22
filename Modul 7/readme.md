@@ -48,7 +48,7 @@ python3 7_3b_xmprpc_client.py
 ```bash
  python3 7_4_get_flickr_photo_info.py
 ```
-Catatan Untuk 7.4 Dapatkan Key Flicker Api terlebih dahulu bisa kunjungi link berikut (Klik Sini)[https://www.flickr.com/services/api/misc.api_keys.html]
+Catatan Untuk 7.4 Dapatkan Key Flicker Api terlebih dahulu bisa kunjungi link berikut [Klik Sini](https://www.flickr.com/services/api/misc.api_keys.html)
 # Cara Run 7.5
 ```bash
 python2 7_5_search_amazonaws_with_SOAP.py
