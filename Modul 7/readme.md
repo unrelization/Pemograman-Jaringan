@@ -22,7 +22,7 @@ pip2 install bottlenose
 atau
 pip3 install bottlenose
 ```
-#cara install flask
+# cara install flask
 ```
 pip install flask
 atau
