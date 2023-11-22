@@ -1,6 +1,6 @@
 # Cara Run 7.2
 ```bash
-python3 7_2_multithreaded_multicall_xmlrpc_server.py --host='103.235.74.34' --port=8000
+python3 7_2_multithreaded_multicall_xmlrpc_server.py --host='127.0.0.1' --port=8000
 ```
 # Cara Run 7.5
 ```bash
