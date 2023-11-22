@@ -1,8 +1,8 @@
 # Pemrograman-Jaringan
-Program Program Yang Dipelajari pada Kelas Pemrograman Jaringan 2 TRJT A (2023) Politeknik Caltex Riau
+Program Program Yang Dipelajari pada Kelas Pemrograman Jaringan 2 TRJT A (G22) Politeknik Caltex Riau
 
 ## Deskripsi
-Ini adalah repositori untuk menyimpan program-program yang dipelajari dalam kelas Pemrograman Jaringan 2 TRJT A (2023) di Politeknik Caltex Riau. Program-program ini ditulis menggunakan bahasa pemrograman Python.
+Ini adalah repositori untuk menyimpan program-program yang dipelajari dalam kelas Pemrograman Jaringan 2 TRJT A (G22) di Politeknik Caltex Riau. Program-program ini ditulis menggunakan bahasa pemrograman Python.
 
 # Credit (Uploader)
 [unreliablecode](https://github.com/unreliablecode) ❤️ [diahnurhasna](https://github.com/diahnurhasna)
